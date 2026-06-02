@@ -56,7 +56,7 @@ java-microservice/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/java-micorservice.git
+git clone https://github.com/Oshada-Nethmina/java-microservice.git
 ```
 
 ### Build Project
